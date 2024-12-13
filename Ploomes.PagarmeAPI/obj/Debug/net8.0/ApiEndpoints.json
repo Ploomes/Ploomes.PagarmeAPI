@@ -1,0 +1,116 @@
+[
+  {
+    "ContainingType": "PagarmeCore.Controller.TransactionController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTransactionEndpoints\u003Eb__0_5",
+    "RelativePath": "card-hash-key",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PagarmeCore.Controller.TransactionController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTransactionEndpoints\u003Eb__0_3",
+    "RelativePath": "generate-card-hash",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "card",
+        "Type": "PagarmeCore.Models.Card",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PagarmeCore.Controller.TransactionController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTransactionEndpoints\u003Eb__0_4",
+    "RelativePath": "generate-hash",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "card",
+        "Type": "PagarmeCore.Models.Card",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PagarmeCore.Controller.TransactionController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTransactionEndpoints\u003Eb__0_0",
+    "RelativePath": "transactions",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "PagarmeCore.Request.TransactionPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PagarmeCore.Controller.TransactionController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTransactionEndpoints\u003Eb__0_1",
+    "RelativePath": "transactions/{id}/capture",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PagarmeCore.Controller.TransactionController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTransactionEndpoints\u003Eb__0_2",
+    "RelativePath": "transactions/{id}/refund",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

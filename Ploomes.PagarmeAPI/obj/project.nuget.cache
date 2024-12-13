@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6odf3BB0Lk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MatheusChiga\\Documents\\GitHub\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MatheusChiga\\.nuget\\packages\\bouncycastle\\1.7.0\\bouncycastle.1.7.0.nupkg.sha512",
+    "C:\\Users\\MatheusChiga\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\MatheusChiga\\.nuget\\packages\\newtonsoft.json\\6.0.8\\newtonsoft.json.6.0.8.nupkg.sha512",
+    "C:\\Users\\MatheusChiga\\.nuget\\packages\\pagar.me\\5.8.1\\pagar.me.5.8.1.nupkg.sha512",
+    "C:\\Users\\MatheusChiga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.9.0\\swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
+    "C:\\Users\\MatheusChiga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.9.0\\swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",
+    "C:\\Users\\MatheusChiga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.9.0\\swashbuckle.aspnetcore.swaggerui.6.9.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'BouncyCastle 1.7.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Newtonsoft.Json 6.0.8' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Pagar.me 5.8.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Pagar.me",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

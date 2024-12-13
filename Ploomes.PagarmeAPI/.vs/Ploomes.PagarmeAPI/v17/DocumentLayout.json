@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\service\\pagarmesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\service\\pagarmesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\service\\pagarmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\service\\pagarmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\dtos\\cardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\dtos\\cardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\dtos\\cardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\dtos\\cardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\interfaces\\ipagarmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\interfaces\\ipagarmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\models\\pagarmeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\models\\pagarmeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|c:\\users\\matheuschiga\\source\\repos\\ploomes.pagarmeapi\\ploomes.pagarmeapi\\ploomes.pagarmeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F44CFBDD-6FC2-42B8-B9F0-6F967AF80216}|Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj|solutionrelative:ploomes.pagarmeapi\\ploomes.pagarmeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPagarMeService.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Interfaces\\IPagarMeService.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Interfaces\\IPagarMeService.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Interfaces\\IPagarMeService.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Interfaces\\IPagarMeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:48:38.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagarMeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Service\\PagarMeSettings.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Service\\PagarMeSettings.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Service\\PagarMeSettings.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Service\\PagarMeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:45:32.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagarMeService.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Service\\PagarMeService.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Service\\PagarMeService.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Service\\PagarMeService.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Service\\PagarMeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:41.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Program.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:39:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Dtos\\CardRequestDTO.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Dtos\\CardRequestDTO.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Dtos\\CardRequestDTO.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Dtos\\CardRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:49:38.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Dtos\\CardResponseDTO.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Dtos\\CardResponseDTO.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Dtos\\CardResponseDTO.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Dtos\\CardResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:26:38.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\appsettings.json",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T12:45:42.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagarMeException.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Models\\PagarMeException.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Models\\PagarMeException.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Models\\PagarMeException.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Models\\PagarMeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:25:00.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:37:15.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ploomes.PagarmeAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj",
+              "RelativeDocumentMoniker": "Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj",
+              "ToolTip": "C:\\Users\\MatheusChiga\\source\\repos\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj",
+              "RelativeToolTip": "Ploomes.PagarmeAPI\\Ploomes.PagarmeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:49:03.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
